@@ -1,4 +1,4 @@
-# html5
+# Html5
 
 # Generates HTML tag strings for HTML5 elements included in Mozilla's documentation of HTML5. 
 Attributes are passed as parameters. If the attribute name is a reserved word, the attribute is suffixed with "_attr" (ex: for_attr).
