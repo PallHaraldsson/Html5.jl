@@ -1,4 +1,4 @@
-module html5
+module Html5
 
 export a, abbr, address, applet, area, article, aside, audio, b, base, bdi, bdo, blockquote, 
 body, br, button, canvas, caption, cite, code, col, colgroup, command, content, data, datalist,
